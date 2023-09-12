@@ -13,5 +13,5 @@ From this assignment, you'll learn the essential git commands to collaborate wit
 4. Add your contact information (e.g., email address) into README.md file in the *develop* branch and merge the branch into the *main* branch.
 5. Pull request into the original repository <https://github.com/GSoJC234/csed409>
 6. Show your result to the TA.
-
+lsjricky1212@postech.ac.kr
 ## Contact Information ##
